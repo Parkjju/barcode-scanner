@@ -13,6 +13,7 @@
 		C94176732988E97600AD47C6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C94176712988E97600AD47C6 /* Main.storyboard */; };
 		C94176752988E97600AD47C6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C94176742988E97600AD47C6 /* Assets.xcassets */; };
 		C94176782988E97600AD47C6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C94176762988E97600AD47C6 /* LaunchScreen.storyboard */; };
+		C94176822988EDE300AD47C6 /* ScannerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C94176812988EDE300AD47C6 /* ScannerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C94176742988E97600AD47C6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C94176772988E97600AD47C6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C94176792988E97600AD47C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C94176812988EDE300AD47C6 /* ScannerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				C941766F2988E97500AD47C6 /* ViewController.swift */,
 				C94176712988E97600AD47C6 /* Main.storyboard */,
 				C94176742988E97600AD47C6 /* Assets.xcassets */,
+				C94176812988EDE300AD47C6 /* ScannerViewController.swift */,
 				C94176762988E97600AD47C6 /* LaunchScreen.storyboard */,
 				C94176792988E97600AD47C6 /* Info.plist */,
 			);
@@ -141,6 +144,7 @@
 				C94176702988E97500AD47C6 /* ViewController.swift in Sources */,
 				C941766C2988E97500AD47C6 /* AppDelegate.swift in Sources */,
 				C941766E2988E97500AD47C6 /* SceneDelegate.swift in Sources */,
+				C94176822988EDE300AD47C6 /* ScannerViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
